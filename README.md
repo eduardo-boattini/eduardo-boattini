@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Eduardo Reis Boattini
-![Eduardo Reis Boattini](https://your-image-link-here)
+![Eduardo Reis Boattini]([https:/](https://github.com/eduardo-boattini/eduardo-boattini/main/FotoEduardo.jpeg)
 
 **Logistics Analyst @ AEON** | **Data Analysis & Geospatial Optimization** | **Python Enthusiast**  
 🚀 **Learning Data Science & AI** - 🧠 *Follow me and let's grow together!* 🧠  
