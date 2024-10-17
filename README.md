@@ -3,7 +3,7 @@
 
 <p align="center">
   <a href="https://lnkd.in/dkmjaM9y">
-    <img src="./ICONS/follow_linkedin.png" alt="Follow me on Linkedin" width="120" height="auto" style="border-radius:10%">
+    <img src="./main/profilepicture.jpg" alt="Follow me on Linkedin" width="120" height="auto" style="border-radius:10%">
   </a>
 </p>
 
