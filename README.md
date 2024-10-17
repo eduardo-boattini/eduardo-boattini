@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Eduardo Reis Boattini
-![Eduardo Reis Boattini](https://github.com/eduardo-boattini/main/FotoEduardo.jpeg)
 
+![Eduardo Reis Boattini] (https://github.com/eduardo-boattini/main/profilepicture.jpeg)
 <p align="center">
   <a href="https://lnkd.in/dkmjaM9y">
     <img src="./main/profilepicture.jpg" alt="Follow me on Linkedin" width="120" height="auto" style="border-radius:10%">
