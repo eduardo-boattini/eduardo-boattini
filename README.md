@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Eduardo Reis Boattini
-![Eduardo Reis Boattini](https://github.com/eduardo-boattini/eduardo-boattini/main/FotoEduardo.jpeg)
+![Eduardo Reis Boattini](https://github.com/eduardo-boattini/main/FotoEduardo.jpeg)
 
 <p align="center">
   <a href="https://lnkd.in/dkmjaM9y">
